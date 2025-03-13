@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Roberto Novelo  
 
 ### 💻 Desarrollador en formación | Estudiante de TI :)  
-Soy un apasionado por la tecnología, el desarrollo de software y la solución de problemas complejos. Actualmente estoy estudiando **Ingeniería en Sistemas** en el **Tecnológico**, y me encanta trabajar en proyectos que hacen la vida más fácil a los demás... ¡y difícil para quienes revisan mi código! 😅  
+Soy un apasionado por la tecnología, el desarrollo de software y la solución de problemas complejos. Actualmente estoy estudiando **Ingeniería en Sistemas** en el **Tecnológico**, y me encanta trabajar en proyectos que hacen la vida más fácil a los demás.
 
 ---
 
