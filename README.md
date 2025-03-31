@@ -9,7 +9,7 @@ Soy un apasionado por la tecnología, el desarrollo de software y la solución d
 - **Lenguajes de Programación:** PHP, Python, SQL, JavaScript, C, C++ y Java  
 - **Bases de datos:** MySQL  
 - **Herramientas y Tecnologías:** Git, GitHub, HTML, CSS, Tailwind CSS  
-- **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo  
+- **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo, Diseño UX/UI  
 
 ---
 
@@ -17,7 +17,6 @@ Soy un apasionado por la tecnología, el desarrollo de software y la solución d
 - React  
 - Desarrollo de aplicaciones web dinámicas  
 - Diseño de sistemas y buenas prácticas de desarrollo  
-- Diseño UX/UI  
 
 ---
 
