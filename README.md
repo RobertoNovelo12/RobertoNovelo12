@@ -8,13 +8,13 @@ Soy un apasionado por la tecnología, el desarrollo de software y la solución d
 ## 🚀 Habilidades  
 - **Lenguajes de Programación:** PHP, Python, SQL, JavaScript, C, C++ y Java  
 - **Bases de datos:** MySQL  
-- **Herramientas y Tecnologías:** Git, GitHub, HTML, CSS, Tailwind CSS  
+- **Herramientas y Tecnologías:** Git, GitHub, HTML, CSS
 - **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo, Diseño UX/UI  
 
 ---
 
 ## 🌱 Actualmente aprendiendo  
-- React  
+- React, Tailwind CSS, NodeJS
 - Desarrollo de aplicaciones web dinámicas  
 - Diseño de sistemas y buenas prácticas de desarrollo  
 
