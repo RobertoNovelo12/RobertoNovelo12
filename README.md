@@ -6,7 +6,7 @@ Soy un apasionado por la tecnología, el desarrollo de software y la solución d
 ---
 
 ## 🚀 Habilidades  
-- **Lenguajes de Programación:** PHP, Python, SQL, JavaScript, C, C++ y Java  
+- **Lenguajes de Programación:** PHP, Python, SQL, JavaScript y Java (un poco)  
 - **Bases de datos:** MySQL  
 - **Herramientas y Tecnologías:** Git, GitHub, HTML, CSS
 - **Otros:** Resolución de problemas, trabajo en equipo, aprendizaje continuo, Diseño UX/UI  
